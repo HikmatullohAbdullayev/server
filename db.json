@@ -1,33 +1,42 @@
 {
     "posts": [
         { "id": 1,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product1.png",
+          "title": "Comfort Handy Craft-1",
+          "discountPrice": "42.000",
+          "price": "65.000"
          },
         { "id": 2,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product2.png",
+          "title": "Comfort Handy Craft-2",
+          "discountPrice": "42.000",
+          "price": "65.000"
          },
         { "id": 3,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product3.png",
+          "title": "Comfort Handy Craft-3",
+          "discountPrice": "42.000",
+          "price": "65.000"
          },
         { "id": 4,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product4.png",
+          "title": "Comfort Handy Craft-4",
+          "discountPrice": "42.000",
+          "price": "65.000"
          },
         { "id": 5,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product5.png",
+          "title": "Comfort Handy Craft-5",
+          "discountPrice": "42.000",
+          "price": "65.000"
          },
         { "id": 6,
-          "title": "json-server",
-          "author": "typicode"
-         },
-        { "id": 7,
-          "title": "json-server",
-          "author": "typicode"
+        "img": "https://celadon-kelpie-7af828.netlify.app/product1.png",
+          "title": "Comfort Handy Craft-6",
+          "discountPrice": "42.000",
+          "price": "65.000"
          }
+        
     ],
     "comments": [
         { "id": 1,
