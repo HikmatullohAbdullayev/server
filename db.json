@@ -1,7 +1,7 @@
 {
     "posts": [
         { "id": 1,
-        "img": "https://celadon-kelpie-7af828.netlify.app/product1.png",
+        "img": "https://celadon-kelpie-7af828.netlify.app/product5.png",
           "title": "Comfort Handy Craft-1",
           "discountPrice": "42.000",
           "price": "65.000"
@@ -31,7 +31,7 @@
           "price": "65.000"
          },
         { "id": 6,
-        "img": "https://celadon-kelpie-7af828.netlify.app/product1.png",
+        "img": "https://celadon-kelpie-7af828.netlify.app/product2.png",
           "title": "Comfort Handy Craft-6",
           "discountPrice": "42.000",
           "price": "65.000"
