@@ -38,12 +38,14 @@
          }
         
     ],
-    "comments": [
-        { "id": 1,
-          "body": "some comment",
-          "postId": 1 
-        }
-    ],
+    "imtihon": [
+      { "id": 1,
+        "title1": " ",
+        "post": " ", 
+        "text": " "
+      }
+   ],
+  
     "profile": {
          "name": "typicode"
          }
