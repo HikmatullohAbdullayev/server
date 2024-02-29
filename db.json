@@ -3,7 +3,7 @@
     {
       "id":1,
       "name": "All",
-      "product": [
+      "all": [
         {
           "id": 1,
           "name": "NikeAir Max 270 React",
@@ -102,7 +102,7 @@
     {
       "id":2,
       "name": "Dresses",
-      "product": [
+      "dresses": [
           {
               "id": 1,
               "name": "NikeAir Max 270 React",
@@ -123,7 +123,7 @@
     {
       "id":3,
       "name": "Sneakers",
-      "product": [
+      "qqq": [
         {
           "id": 1,
           "name": "Sneakers 270 Angular",
