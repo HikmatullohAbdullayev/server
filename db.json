@@ -1,13 +1,11 @@
 {
-  "categorys": [
-    {
-      "id":1,
-      "name": "All",
-      "all": [
+  "home": [
+   
         {
           "id": 1,
           "name": "NikeAir Max 270 React",
           "price": "10 000",
+          "category": "dresses",
           "color":"orange",
           "img":" "
         },
@@ -15,6 +13,7 @@
           "id": 2,
           "name": "Nike Air Max 430 Vue",
           "price": "30 000",
+          "category": "dresses",
           "color":"red",
           "img":" "
         },
@@ -22,10 +21,10 @@
           "id": 3,
           "name": "Nike Air Max 270 React",
           "price": "5 000",
+          "category": "denim",
           "color":"blue",
           "img":" "
         },
-        
         {
           "id": 4,
           "name": "Nike Air Max 430 Vue",
@@ -96,251 +95,47 @@
           "color":"pink",
           "img":" "
         }
-      ]
-    },
-
-    
-
-    {
-      "id":3,
-      "name": "Sneakers",
-      "qqq": [
-        {
-          "id": 1,
-          "name": "Sneakers 270 Angular",
-          "price": "299,23",
-          "chegirma":56,
-          "asl":412.32,
-          "img": "https://olcha.uz/image/150x150/category/D3OabRt09Me2IBTtMFSO4qRvU8Fi1dibN1EyHORVOZldBFSobpRR91j2vRLY.png"
-        },
-        {
-          "id": 2,
-          "name": "Sneakers 270 Next-js",
-          "price": "299,23",
-          "chegirma":21,
-          "asl":466.32,
-          "img":"https://olcha.uz/image/266x266/products/YSh63bjludfLNzSQjcCvVH2PJQp5fLvWQBku1fhOO3gnDpFLg7f8O7EjcOhY.jpg"
-        },
-        {
-          "id": 3,
-          "name": "Sneakers 270 electron-js",
-          "price": "299,23",
-          "chegirma":66,
-          "asl":498.32,
-          "img":"https://olcha.uz/image/150x150/category/Xbmlo8Z8MHaS588Aj5chi8f9VofP0F3PpaTWJAUPhYiYO8NoEWWbPewW2NWj.png"
-        }
-      ]
-    },
-
-    {
-      "id":4,
-      "name": "Belt",
-      "product": [
-        {
-          "id": 1,
-          "name": "Belt 270 React-netive",
-          "price": "299,43",
-          "chegirma":26,
-          "asl":456.32,
-          "img":"https://olcha.uz/image/266x266/products/YSh63bjludfLNzSQjcCvVH2PJQp5fLvWQBku1fhOO3gnDpFLg7f8O7EjcOhY.jpg"
-        },
-        {
-          "id": 2,
-          "name": "Belt 430 VueX",
-          "price": "299,43",
-          "chegirma":20,
-          "asl":406.32,
-          "img":"https://olcha.uz/image/266x266/products/2022-08-24/butsy-nike-mercurial-vapor-14-elite-powergym-100642-0.jpeg"
-        }
-      ]
-    },
-
-    {
-      "id":5,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":6,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":7,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":8,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":9,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":10,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":11,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    },
-
-    {
-      "id":12,
-      "name": "Sanglasses",
-      "product": [
-        {
-          "id": 1,
-          "name": "Sanglasses 270 Laravel",
-          "price": "299,43",
-          "chegirma":2,
-          "asl":556.32,
-          "img":"https://olcha.uz/image/150x150/category/tAEIVkFM0QNZphZK6adOtkuNZ7c9IYsPgHkako9b2ILemNbhV8VaFuwiDUFm.png"
-        },
-        {
-          "id": 2,
-          "name": "Sanglasses 430 Yii-2",
-          "price": "299,43",
-          "chegirma":16,
-          "asl":346.32,
-          "img":"https://olcha.uz/image/150x150/category/imwYfaMXYDR9BQLXlvmbKKQONserZNVq158z2U3qxsMA6wYrkhzdegDpYFiK.png"
-        }
-      ]
-    }
-
+      ],
+   
+    "shoes":[
+         {
+                "id": 1,
+                "category":"dresses",
+                "name": "NikeAir Max 270 React",
+                "price": "10 000",
+                "color":"orange",
+                "img":" "
+              },
+              {
+                "id": 2,
+                "category":"dresses",
+                "name": "Nike Air Max 430 Vue",
+                "price": "30 000",
+                "color":"red",
+                "img":" "
+              }
+      
     ],
-    "aaa":[
+    "clothes":[
+         {
+                "id": 1,
+                "category":"dresses",
+                "name": "NikeAir Max 270 React",
+                "price": "10 000",
+                "color":"orange",
+                "img":" "
+              },
+              {
+                "id": 2,
+                "category":"dresses",
+                "name": "Nike Air Max 430 Vue",
+                "price": "30 000",
+                "color":"red",
+                "img":" "
+              }
+      
+    ],
+    "accessories":[
          {
                 "id": 1,
                 "category":"dresses",
