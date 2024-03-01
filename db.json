@@ -119,6 +119,7 @@
         "price": "10 000",
         "color":"orange",
         "category":"dresses",
+        "size":"XXS",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F21902235%2F166021981189692300961.jpeg"
       },
       {
@@ -127,6 +128,7 @@
         "price": "30 000",
         "color":"red",
         "category":"denim",
+        "size":"S",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNRUMINO01-%281%29.jpg"
       },
       {
@@ -135,6 +137,7 @@
         "price": "5 000",
         "color":"blue",
         "category":"jeans",
+        "size":"XS",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0963.jpg"
       },
       {
@@ -143,6 +146,7 @@
         "price": "300 000",
         "color":"red",
         "category":"tops",
+        "size":"M",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_1151.jpg"
       },
       {
@@ -151,6 +155,7 @@
         "price": "60 000",
         "color":"beige",
         "category":"jackets",
+        "size":"L",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F83%2F22044283%2F166065593834000600108.jpeg"
       },
       {
@@ -159,6 +164,7 @@
         "price": "80 000",
         "color":"black",
         "category":"pants",
+        "size":"XL",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNSWTSHOTPRPL0015-%281%29.jpg"
       },
       {
@@ -167,6 +173,7 @@
         "price": "100 000",
         "color":"green",
         "category":"shorts",
+        "size":"23",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F14%2F21902214%2F166029246957038600990.jpeg"
       },
       {
@@ -175,6 +182,7 @@
         "price": "34 000",
         "color":"brown",
         "category":"skirts",
+        "size":"24",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0536.jpg"
       },
       {
@@ -183,6 +191,7 @@
         "price": "24 000",
         "color":"purple",
         "category":"loungerie",
+        "size":"25",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F22%2F28790922%2F169426142597770100784.jpeg"
       },
        {
@@ -191,6 +200,7 @@
         "price": "130 000",
         "color":"gold",
         "category":"leather",
+        "size":"26",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0788.png"
       },
        {
@@ -199,6 +209,7 @@
         "price": "12 000",
         "color":"taupe",
         "category":"sweaters",
+        "size":"27",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F45%2F29232145%2F170657009423037000222.jpeg"
       },
        {
@@ -207,15 +218,251 @@
         "price": "78 000",
         "color":"white",
         "category":"jackets",
+        "size":"28",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F39%2F29106039%2F170454289319148300993.jpeg"
       }, 
       {
-        "id": 12,
+        "id": 13,
         "name": "Nike Air Max 270 electron-js",
         "price": "2 000",
         "color":"pink",
         "category":"jackets",
+        "size":"29",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F29106035%2F170453897449495700270.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "NikeAir Max 270 React",
+        "price": "10 000",
+        "color":"orange",
+        "category":"dresses",
+        "size":"30",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F93%2F28972093%2F169918498951008700047.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "Nike Air Max 430 Vue",
+        "price": "30 000",
+        "color":"red",
+        "category":"denim",
+        "size":"31",
+        "img":"https://www.sefamerve.com/image/cache/data/202306/01/sefamerve_tesettur_elbise_ysuem24y8968_04_9546691685622901570_1-329x504.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Nike Air Max 270 React",
+        "price": "5 000",
+        "color":"blue",
+        "category":"jeans",
+        "size":"32",
+        "img":"https://www.feizaonline.com/image/cache/catalog/--zehra1/navy-blue-evening-dress-mhr-2548l-466x699.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "Nike Air Max 430 Vue",
+        "price": "300 000",
+        "color":"red",
+        "category":"tops",
+        "size":"M",
+        "img":"https://www.sefamerve.com/image/cache/data/202305/05/sefamerve_tesettur_elbise_ysuem24y8924_02_9546081683295976549_1-329x504.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Nike Air Max 270 Angular",
+        "price": "60 000",
+        "color":"beige",
+        "category":"jackets",
+        "size":"L",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_05_9317431709025498777_1-329x504.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Nike Air Max 270 Next-js",
+        "price": "80 000",
+        "color":"black",
+        "category":"pants",
+        "size":"XS",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F31%2F28865131%2F169563612896524600628.jpeg"
+      },
+      {
+        "id": 20,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "100 000",
+        "color":"green",
+        "category":"shorts",
+        "size":"23",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F27%2F28865127%2F169563546291534500366.jpeg"
+      },
+      {
+        "id": 21,
+        "name": "Nike Air Max 270 React",
+        "price": "34 000",
+        "color":"brown",
+        "category":"skirts",
+        "size":"24",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_04_9317421709025533635_1-329x504.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "24 000",
+        "color":"purple",
+        "category":"loungerie",
+        "size":"25",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_01_9317391709025423777_1-329x504.jpg"
+      },
+       {
+        "id": 23,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "130 000",
+        "color":"gold",
+        "category":"leather",
+        "size":"28",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_03_9317411709025464534_1-329x504.jpg"
+      },
+       {
+        "id": 24,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "12 000",
+        "color":"taupe",
+        "category":"sweaters",
+        "size":"XXS",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/09/sefamerve_tesettur_elbise_ats2061_02_10109581707468467362_1-329x504.jpg"
+      },
+       {
+        "id": 25,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "78 000",
+        "color":"white",
+        "category":"jackets",
+        "size":"28",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/09/sefamerve_tesettur_elbise_ats2061_01_10109571707468485422_1-329x504.jpg"
+      }, 
+      {
+        "id": 26,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "2 000",
+        "color":"pink",
+        "category":"jackets",
+        "size":"30",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/28/sefamerve_tesettur_elbise_ats2066_02_10119011709123130774_1-329x504.jpg"
+      },
+      {
+        "id": 27,
+        "name": "NikeAir Max 270 React",
+        "price": "10 000",
+        "color":"orange",
+        "category":"dresses",
+        "size":"XXS",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_ats2065_04_10119081709197337497_1-329x504.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Nike Air Max 430 Vue",
+        "price": "30 000",
+        "color":"red",
+        "category":"denim",
+        "size":"S",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/28/sefamerve_tesettur_elbise_ats2063_04_10119171709130577769_1-329x504.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Nike Air Max 270 React",
+        "price": "5 000",
+        "color":"blue",
+        "category":"jeans",
+        "size":"XS",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/05/sefamerve_tesettur_elbise_nazra0323_01_10084821707143766498_1-329x504.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Nike Air Max 430 Vue",
+        "price": "300 000",
+        "color":"red",
+        "category":"tops",
+        "size":"M",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_mdphntukx_16857_10121201709207392367_1-329x504.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Nike Air Max 270 Angular",
+        "price": "60 000",
+        "color":"beige",
+        "category":"jackets",
+        "size":"L",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_mdphntukx_16855_10121181709207505352_1-329x504.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Nike Air Max 270 Next-js",
+        "price": "80 000",
+        "color":"black",
+        "category":"pants",
+        "size":"XL",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/05/mdphntukx_6924_0224sgs_puantiyeli_tesettur_elbise_ekru_siyah_1707162376_1-329x504.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "100 000",
+        "color":"green",
+        "category":"shorts",
+        "size":"23",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/28/mdphntukx_9224_0297sgs_robali_aerobin_elbise_siyah_1709141899_1-329x504.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Nike Air Max 270 React",
+        "price": "34 000",
+        "color":"brown",
+        "category":"skirts",
+        "size":"24",
+        "img":"https://www.sefamerve.com/image/cache/data/202402/06/sefamerve_tesettur_elbise_nazra0329_03_10085061707221062329_1-329x504.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "24 000",
+        "color":"purple",
+        "category":"loungerie",
+        "size":"30",
+        "img":"https://www.sefamerve.com/image/cache/data/202306/02/sefamerve_takim_nazra0044_05_9591701685697414716_1-329x504.jpg"
+      },
+       {
+        "id": 36,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "130 000",
+        "color":"gold",
+        "category":"leather",
+        "size":"31",
+        "img":"https://www.sefamerve.com/image/cache/data/202202/22/sefamerve_namaz_elbisesi_sayin1973_07_8220481645529036284_1-329x504.jpg"
+      },
+       {
+        "id": 37,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "12 000",
+        "color":"taupe",
+        "category":"sweaters",
+        "size":"32",
+        "img":"https://www.sefamerve.com/image/cache/data/202206/08/sefamerve_haki_namaz_elbisesi_sayin1973_06_8220471654679280880_1-329x504.jpg"
+      },
+       {
+        "id": 38,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "78 000",
+        "color":"white",
+        "category":"jackets",
+        "size":"28",
+        "img":"https://www.sefamerve.com/image/cache/data/202308/29/sefamerve_tesettur_elbise_nazra0129a_01_9818541693308578378_1-329x504.jpg"
+      }, 
+      {
+        "id": 39,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "2 000",
+        "color":"pink",
+        "category":"jackets",
+        "size":"29",
+        "img":"https://www.sefamerve.com/image/cache/data/202312/20/sefamerve_tesettur_elbise_nazra0298_10_9922281703069987474_1-329x504.jpg"
       }
       
     ],
