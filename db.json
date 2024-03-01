@@ -5,7 +5,6 @@
           "id": 1,
           "name": "NikeAir Max 270 React",
           "price": "10 000",
-          "category": "dresses",
           "color":"orange",
           "img":" "
         },
@@ -13,7 +12,6 @@
           "id": 2,
           "name": "Nike Air Max 430 Vue",
           "price": "30 000",
-          "category": "dresses",
           "color":"red",
           "img":" "
         },
@@ -21,7 +19,6 @@
           "id": 3,
           "name": "Nike Air Max 270 React",
           "price": "5 000",
-          "category": "denim",
           "color":"blue",
           "img":" "
         },
@@ -100,7 +97,6 @@
     "shoes":[
          {
                 "id": 1,
-                "category":"dresses",
                 "name": "NikeAir Max 270 React",
                 "price": "10 000",
                 "color":"orange",
@@ -117,22 +113,110 @@
       
     ],
     "clothes":[
-         {
-                "id": 1,
-                "category":"dresses",
-                "name": "NikeAir Max 270 React",
-                "price": "10 000",
-                "color":"orange",
-                "img":" "
-              },
-              {
-                "id": 2,
-                "category":"dresses",
-                "name": "Nike Air Max 430 Vue",
-                "price": "30 000",
-                "color":"red",
-                "img":" "
-              }
+      {
+        "id": 1,
+        "name": "NikeAir Max 270 React",
+        "price": "10 000",
+        "color":"orange",
+        "category":"dresses",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F21902235%2F166021981189692300961.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Nike Air Max 430 Vue",
+        "price": "30 000",
+        "color":"red",
+        "category":"denim",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNRUMINO01-%281%29.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Nike Air Max 270 React",
+        "price": "5 000",
+        "color":"blue",
+        "category":"jeans",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0963.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Nike Air Max 430 Vue",
+        "price": "300 000",
+        "color":"red",
+        "category":"tops",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_1151.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Nike Air Max 270 Angular",
+        "price": "60 000",
+        "color":"beige",
+        "category":"jackets",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F83%2F22044283%2F166065593834000600108.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Nike Air Max 270 Next-js",
+        "price": "80 000",
+        "color":"black",
+        "category":"pants",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNSWTSHOTPRPL0015-%281%29.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "100 000",
+        "color":"green",
+        "category":"shorts",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F14%2F21902214%2F166029246957038600990.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Nike Air Max 270 React",
+        "price": "34 000",
+        "color":"brown",
+        "category":"skirts",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0536.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "24 000",
+        "color":"purple",
+        "category":"loungerie",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F22%2F28790922%2F169426142597770100784.jpeg"
+      },
+       {
+        "id": 10,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "130 000",
+        "color":"gold",
+        "category":"leather",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0788.png"
+      },
+       {
+        "id": 11,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "12 000",
+        "color":"taupe",
+        "category":"sweaters",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F45%2F29232145%2F170657009423037000222.jpeg"
+      },
+       {
+        "id": 12,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "78 000",
+        "color":"white",
+        "category":"jackets",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F39%2F29106039%2F170454289319148300993.jpeg"
+      }, 
+      {
+        "id": 12,
+        "name": "Nike Air Max 270 electron-js",
+        "price": "2 000",
+        "color":"pink",
+        "category":"jackets",
+        "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F29106035%2F170453897449495700270.jpeg"
+      }
       
     ],
     "accessories":[
@@ -156,3 +240,5 @@
     ]
  
 }
+
+
