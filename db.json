@@ -93,8 +93,6 @@
           "img":" "
         }
       ],
-   
-
     "shoes":[
       {
         "id": 1,
@@ -495,6 +493,7 @@
         "price": "10 000",
         "color":"orange",
         "category":"dresses",
+        "sort by":"Most popular",
         "size":"XXS",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F21902235%2F166021981189692300961.jpeg"
       },
@@ -505,6 +504,7 @@
         "color":"red",
         "category":"denim",
         "size":"S",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNRUMINO01-%281%29.jpg"
       },
       {
@@ -513,6 +513,7 @@
         "price": "5 000",
         "color":"blue",
         "category":"jeans",
+        "sort by":"Most popular",
         "size":"XS",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0963.jpg"
       },
@@ -523,6 +524,7 @@
         "color":"red",
         "category":"tops",
         "size":"M",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_1151.jpg"
       },
       {
@@ -532,6 +534,7 @@
         "color":"beige",
         "category":"jackets",
         "size":"L",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F83%2F22044283%2F166065593834000600108.jpeg"
       },
       {
@@ -541,6 +544,7 @@
         "color":"black",
         "category":"pants",
         "size":"XL",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FWMNSWTSHOTPRPL0015-%281%29.jpg"
       },
       {
@@ -550,6 +554,7 @@
         "color":"green",
         "category":"shorts",
         "size":"23",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F14%2F21902214%2F166029246957038600990.jpeg"
       },
       {
@@ -559,6 +564,7 @@
         "color":"brown",
         "category":"skirts",
         "size":"24",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0536.jpg"
       },
       {
@@ -568,6 +574,7 @@
         "color":"purple",
         "category":"loungerie",
         "size":"25",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F22%2F28790922%2F169426142597770100784.jpeg"
       },
        {
@@ -577,6 +584,7 @@
         "color":"gold",
         "category":"leather",
         "size":"26",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fseller%2F7384%2FGIM_0788.png"
       },
        {
@@ -586,6 +594,7 @@
         "color":"taupe",
         "category":"sweaters",
         "size":"27",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F45%2F29232145%2F170657009423037000222.jpeg"
       },
        {
@@ -595,6 +604,7 @@
         "color":"white",
         "category":"jackets",
         "size":"28",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F39%2F29106039%2F170454289319148300993.jpeg"
       }, 
       {
@@ -604,6 +614,7 @@
         "color":"pink",
         "category":"jackets",
         "size":"29",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F35%2F29106035%2F170453897449495700270.jpeg"
       },
       {
@@ -613,6 +624,7 @@
         "color":"orange",
         "category":"dresses",
         "size":"30",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F93%2F28972093%2F169918498951008700047.jpeg"
       },
       {
@@ -622,6 +634,7 @@
         "color":"red",
         "category":"denim",
         "size":"31",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202306/01/sefamerve_tesettur_elbise_ysuem24y8968_04_9546691685622901570_1-329x504.jpg"
       },
       {
@@ -631,6 +644,7 @@
         "color":"blue",
         "category":"jeans",
         "size":"32",
+        "sort by":"Best Selling",
         "img":"https://www.feizaonline.com/image/cache/catalog/--zehra1/navy-blue-evening-dress-mhr-2548l-466x699.jpeg"
       },
       {
@@ -640,6 +654,7 @@
         "color":"red",
         "category":"tops",
         "size":"M",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202305/05/sefamerve_tesettur_elbise_ysuem24y8924_02_9546081683295976549_1-329x504.jpg"
       },
       {
@@ -649,6 +664,7 @@
         "color":"beige",
         "category":"jackets",
         "size":"L",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_05_9317431709025498777_1-329x504.jpg"
       },
       {
@@ -658,6 +674,7 @@
         "color":"black",
         "category":"pants",
         "size":"XS",
+        "sort by":"Most popular",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F31%2F28865131%2F169563612896524600628.jpeg"
       },
       {
@@ -667,6 +684,7 @@
         "color":"green",
         "category":"shorts",
         "size":"23",
+        "sort by":"Best Selling",
         "img":"https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fweb%2Fproduct%2Fpicture%2F27%2F28865127%2F169563546291534500366.jpeg"
       },
       {
@@ -676,6 +694,7 @@
         "color":"brown",
         "category":"skirts",
         "size":"24",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_04_9317421709025533635_1-329x504.jpg"
       },
       {
@@ -685,6 +704,7 @@
         "color":"purple",
         "category":"loungerie",
         "size":"25",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_01_9317391709025423777_1-329x504.jpg"
       },
        {
@@ -694,6 +714,7 @@
         "color":"gold",
         "category":"leather",
         "size":"28",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/27/sefamerve_tesettur_elbise_sayin0650_03_9317411709025464534_1-329x504.jpg"
       },
        {
@@ -703,6 +724,7 @@
         "color":"taupe",
         "category":"sweaters",
         "size":"XXS",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/09/sefamerve_tesettur_elbise_ats2061_02_10109581707468467362_1-329x504.jpg"
       },
        {
@@ -712,6 +734,7 @@
         "color":"white",
         "category":"jackets",
         "size":"28",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/09/sefamerve_tesettur_elbise_ats2061_01_10109571707468485422_1-329x504.jpg"
       }, 
       {
@@ -721,6 +744,7 @@
         "color":"pink",
         "category":"jackets",
         "size":"30",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/28/sefamerve_tesettur_elbise_ats2066_02_10119011709123130774_1-329x504.jpg"
       },
       {
@@ -730,6 +754,7 @@
         "color":"orange",
         "category":"dresses",
         "size":"XXS",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_ats2065_04_10119081709197337497_1-329x504.jpg"
       },
       {
@@ -739,6 +764,7 @@
         "color":"red",
         "category":"denim",
         "size":"S",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/28/sefamerve_tesettur_elbise_ats2063_04_10119171709130577769_1-329x504.jpg"
       },
       {
@@ -748,6 +774,7 @@
         "color":"blue",
         "category":"jeans",
         "size":"XS",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/05/sefamerve_tesettur_elbise_nazra0323_01_10084821707143766498_1-329x504.jpg"
       },
       {
@@ -757,6 +784,7 @@
         "color":"red",
         "category":"tops",
         "size":"M",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_mdphntukx_16857_10121201709207392367_1-329x504.jpg"
       },
       {
@@ -766,6 +794,7 @@
         "color":"beige",
         "category":"jackets",
         "size":"L",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/29/sefamerve_tesettur_elbise_mdphntukx_16855_10121181709207505352_1-329x504.jpg"
       },
       {
@@ -775,6 +804,7 @@
         "color":"black",
         "category":"pants",
         "size":"XL",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/05/mdphntukx_6924_0224sgs_puantiyeli_tesettur_elbise_ekru_siyah_1707162376_1-329x504.jpg"
       },
       {
@@ -784,6 +814,7 @@
         "color":"green",
         "category":"shorts",
         "size":"23",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202402/28/mdphntukx_9224_0297sgs_robali_aerobin_elbise_siyah_1709141899_1-329x504.jpg"
       },
       {
@@ -793,6 +824,7 @@
         "color":"brown",
         "category":"skirts",
         "size":"24",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202402/06/sefamerve_tesettur_elbise_nazra0329_03_10085061707221062329_1-329x504.jpg"
       },
       {
@@ -802,6 +834,7 @@
         "color":"purple",
         "category":"loungerie",
         "size":"30",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202306/02/sefamerve_takim_nazra0044_05_9591701685697414716_1-329x504.jpg"
       },
        {
@@ -811,6 +844,7 @@
         "color":"gold",
         "category":"leather",
         "size":"31",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202202/22/sefamerve_namaz_elbisesi_sayin1973_07_8220481645529036284_1-329x504.jpg"
       },
        {
@@ -820,6 +854,7 @@
         "color":"taupe",
         "category":"sweaters",
         "size":"32",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202206/08/sefamerve_haki_namaz_elbisesi_sayin1973_06_8220471654679280880_1-329x504.jpg"
       },
        {
@@ -829,6 +864,7 @@
         "color":"white",
         "category":"jackets",
         "size":"28",
+        "sort by":"Best Selling",
         "img":"https://www.sefamerve.com/image/cache/data/202308/29/sefamerve_tesettur_elbise_nazra0129a_01_9818541693308578378_1-329x504.jpg"
       }, 
       {
@@ -838,27 +874,400 @@
         "color":"pink",
         "category":"jackets",
         "size":"29",
+        "sort by":"Most popular",
         "img":"https://www.sefamerve.com/image/cache/data/202312/20/sefamerve_tesettur_elbise_nazra0298_10_9922281703069987474_1-329x504.jpg"
       }
       
     ],
     "accessories":[
-         {
-                "id": 1,
-                "category":"dresses",
-                "name": "NikeAir Max 270 React",
-                "price": "10 000",
-                "color":"orange",
-                "img":" "
-              },
-              {
-                "id": 2,
-                "category":"dresses",
-                "name": "Nike Air Max 430 Vue",
-                "price": "30 000",
-                "color":"red",
-                "img":" "
-              }
+      {
+        "id": 1,
+        "name": "High heels ladies shoes",
+        "price": "10 000",
+        "color":"orange",
+        "category":"Facemask",
+        "size":"XS",
+        "sort by":"Most popular",
+        "img":"https://www.replayjeans.com.au/media/catalog/product/cache/b80545c9baa5349109466c4d4866dbe0/r/p/rpblw0004.rpblk098.png"
+      },
+      {
+        "id": 2,
+        "name": "Keds sneakers",
+        "price": "30 000",
+        "color":"red",
+        "category":"Jewelry",
+        "size":"S",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwf19cf20e/images/large/01_30103160009_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 3,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.houseoffraser.co.uk/images/products/74814318_h.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Summer shoes",
+        "price": "300 000",
+        "color":"red",
+        "category":"Hair accessories",
+        "size":"M", 
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw09ae35ed/images/large/01_59107371_2.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 5,
+        "name": "Casual Flat Loafers",
+        "price": "60 000",
+        "color":"beige",
+        "category":"Belts",
+        "sort by":"Most popular",
+        "size":"M/L",
+        "img":"https://www.replayjeans.com.au/media/catalog/product/cache/b80545c9baa5349109466c4d4866dbe0/a/w/aw2572_000_a3001_128_1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://i.pinimg.com/236x/e9/c0/5b/e9c05baa0abbd64d6e32d4bb6d984def.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Superga Platform Sneakers",
+        "price": "100 000",
+        "color":"green",
+        "category":"Handbags",
+        "sort by":"Most popular",
+        "size":"L",
+        "img":"https://www.replayjeans.com.au/media/catalog/product/cache/b80545c9baa5349109466c4d4866dbe0/f/w/fw3001_001_a0362b_060_3.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Heeled sandals",
+        "price": "34 000",
+        "color":"brown",
+        "category":"Fragrances",
+        "size":"XL",
+        "sort by":"Best Selling",
+        "img":"https://i.pinimg.com/736x/53/37/c7/5337c70a798cbca9dae7ff42ae99c1b2.jpg"
+      },
+      {
+        "id": 9,
+        "name": "HAJINK Boat Shoes",
+        "price": "24 000",
+        "color":"purple",
+        "category":"Sunglasses & eyewears",
+        "size":"6",
+        "sort by":"Best Selling",
+        "img":"https://imagescdn.simons.ca/images/20397/12418/12/A1_2.jpg?__=3"
+      },
+       {
+        "id": 10,
+        "name": "Summer Cork Slippers",
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw2d692b7a/images/large/01_33000140001_1.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 11,
+        "name": "Ankle boots",
+        "price": "12 000",
+        "color":"taupe",
+        "category":"Hats and beanies",
+        "sort by":"Most popular",
+        "size":"8",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwa9253ae0/images/large/01_30105320007_1.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 12,
+        "name": "Summer shoes",
+        "price": "78 000",
+        "color":"white",
+        "category":"Gloves",
+        "sort by":"Best Selling",
+        "size":"XS",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwe0a0650f/images/large/01_59002812_2.jpg?sw=470&sh=602&sm=cut"
+      }, 
+      {
+        "id": 13,
+        "name": "Summer shoes",
+        "price": "78 000",
+        "color":"white",
+        "category":"Gloves",
+        "sort by":"Best Selling",
+        "size":"XS",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dweb57fc6b/images/large/01_33000120015_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 14,
+        "name": "Heeled sandals",
+        "price": "34 000",
+        "color":"brown",
+        "category":"Fragrances",
+        "size":"XL",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwa20fbde3/images/large/01_44000120017_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 15,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw5807b9b3/images/large/01_69011241_2.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 16,
+        "name": "Summer shoes",
+        "price": "300 000",
+        "color":"red",
+        "category":"Hair accessories",
+        "size":"M",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw963b25b1/images/large/01_69105009_2.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 17,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw17c36e64/images/large/01_58168313_3.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 18,
+        "name": "Heeled sandals",
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw0f821230/images/large/01_30102680007_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 19,
+        "name": "Summer shoes",
+        "price": "78 000",
+        "color":"white",
+        "category":"Gloves",
+        "sort by":"Best Selling",
+        "size":"XS",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw5ef472f6/images/large/01_68909698_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 20,
+        "name": "Heeled sandals",
+        "price": "34 000",
+        "color":"brown",
+        "category":"Fragrances",
+        "size":"XL",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwda5b660f/images/large/01_69105103_2.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 21,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw07395068/images/large/21_59004040_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 22,
+        "name": "Summer shoes",
+        "price": "300 000",
+        "color":"red",
+        "category":"Hair accessories",
+        "size":"M",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw686604fd/images/large/01_31000120008_1.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 23,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw47cd60bb/images/large/21_68357304_1.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 24,
+        "name": "Black strappy peeptoe",
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwae7d99db/images/large/01_68357169_1.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 25,
+        "name": "Summer shoes",
+        "price": "78 000",
+        "color":"white",
+        "category":"Gloves",
+        "sort by":"Best Selling",
+        "size":"XS",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw0d6007a8/images/large/21_49603311_1.jpg?sw=470&sh=602&sm=cut"
+      }, 
+      {
+        "id": 26,
+        "name": "Heeled sandals",
+        "price": "34 000",
+        "color":"brown",
+        "category":"Fragrances",
+        "size":"XL",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw35394494/images/large/01_69011003_2.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 27,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw2e425eae/images/large/01_58407481_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 28,
+        "name": "Summer shoes",
+        "price": "300 000",
+        "color":"red",
+        "category":"Hair accessories",
+        "size":"M",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw892ca3f5/images/large/21_44000100004_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 29,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw3b08bd98/images/large/01_68123781_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 30,
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw44c719fb/images/large/01_32000820015_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 31,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw53898ea6/images/large/01_32000240018_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 32,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw28d6091d/images/large/01_68634630_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 33,
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw907c0995/images/large/21_98708503_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 34,
+        "name": "Heeled sandals",
+        "price": "34 000",
+        "color":"brown",
+        "category":"Fragrances",
+        "size":"XL",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwf0aa3657/images/large/01_32010360019_1.jpg?sw=470&sh=602&sm=cut"
+      },
+      {
+        "id": 35,
+        "name": "Black strappy peeptoe",
+        "price": "80 000",
+        "color":"black",
+        "category":"Backpacks",
+        "size":"L",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw409fda23/images/large/01_58633497_3.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 36,
+        "name": "Summer shoes",
+        "price": "300 000",
+        "color":"red",
+        "category":"Hair accessories",
+        "size":"M",
+        "sort by":"Best Selling",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw409fda23/images/large/01_58633497_3.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 37,
+        "name": "Guilhermina Embellished Slides",
+        "price": "5 000",
+        "color":"blue",
+        "category":"Watches",
+        "size":"S/M",
+        "sort by":"Most popular",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw6de0b276/images/large/01_69004703_2.jpg?sw=470&sh=602&sm=cut"
+      },
+       {
+        "id": 38,
+        "name": "Summer shoes",
+        "price": "78 000",
+        "color":"white",
+        "category":"Gloves",
+        "sort by":"Best Selling",
+        "size":"XS",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw6655714e/images/large/01_48123181_1.jpg?sw=940&sh=1204&sm=cut"
+      }, 
+      {
+        "id": 39,
+        "name": "Ankle boots",
+        "price": "130 000",
+        "color":"gold",
+        "category":"Socks",
+        "sort by":"Most popular",
+        "size":"7",
+        "img":"https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwa6d5ebfe/images/large/01_32000610174_1.jpg?sw=470&sh=602&sm=cut"
+      }
       
     ]
  
